@@ -1,0 +1,13 @@
+C:\Users\eliez\OneDrive\Documentos\dotnetProjects\internationalBank\international.Bank\bin\Debug\netcoreapp3.1\international.Bank.exe
+C:\Users\eliez\OneDrive\Documentos\dotnetProjects\internationalBank\international.Bank\bin\Debug\netcoreapp3.1\international.Bank.deps.json
+C:\Users\eliez\OneDrive\Documentos\dotnetProjects\internationalBank\international.Bank\bin\Debug\netcoreapp3.1\international.Bank.runtimeconfig.json
+C:\Users\eliez\OneDrive\Documentos\dotnetProjects\internationalBank\international.Bank\bin\Debug\netcoreapp3.1\international.Bank.runtimeconfig.dev.json
+C:\Users\eliez\OneDrive\Documentos\dotnetProjects\internationalBank\international.Bank\bin\Debug\netcoreapp3.1\international.Bank.dll
+C:\Users\eliez\OneDrive\Documentos\dotnetProjects\internationalBank\international.Bank\bin\Debug\netcoreapp3.1\international.Bank.pdb
+C:\Users\eliez\OneDrive\Documentos\dotnetProjects\internationalBank\international.Bank\obj\Debug\netcoreapp3.1\international.Bank.csprojAssemblyReference.cache
+C:\Users\eliez\OneDrive\Documentos\dotnetProjects\internationalBank\international.Bank\obj\Debug\netcoreapp3.1\international.Bank.AssemblyInfoInputs.cache
+C:\Users\eliez\OneDrive\Documentos\dotnetProjects\internationalBank\international.Bank\obj\Debug\netcoreapp3.1\international.Bank.AssemblyInfo.cs
+C:\Users\eliez\OneDrive\Documentos\dotnetProjects\internationalBank\international.Bank\obj\Debug\netcoreapp3.1\international.Bank.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Documentos\dotnetProjects\internationalBank\international.Bank\obj\Debug\netcoreapp3.1\international.Bank.dll
+C:\Users\eliez\OneDrive\Documentos\dotnetProjects\internationalBank\international.Bank\obj\Debug\netcoreapp3.1\international.Bank.pdb
+C:\Users\eliez\OneDrive\Documentos\dotnetProjects\internationalBank\international.Bank\obj\Debug\netcoreapp3.1\international.Bank.genruntimeconfig.cache
