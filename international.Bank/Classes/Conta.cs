@@ -51,15 +51,14 @@ namespace international.Bank
         }
 
         public override string ToString()
-        {
-            string descricaoConta = "";
-            descricaoConta += "TipoConta: " + this.TipoConta + "\n";
-            descricaoConta += "Nome: " + this.Nome + "\n";
-            descricaoConta += "Saldo: R$ " + this.Saldo+ "\n";
-            descricaoConta += "Credito: R$ " + this.Credito;
-
-            return descricaoConta;
-        }
+		{
+            string retorno = "";
+            retorno += "TipoConta " + this.TipoConta + " | ";
+            retorno += "Nome " + this.Nome + " | ";
+            retorno += "Saldo " + this.Saldo + " | ";
+            retorno += "Crédito " + this.Credito;
+			return retorno;
+		}
 
     }
 }
