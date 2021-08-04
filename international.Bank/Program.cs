@@ -155,10 +155,8 @@ namespace international.Bank
                 Console.Write("Numero da conta: {0} - ", i);
                 Console.WriteLine(conta);
             }
-            Console.WriteLine("Digite algo para voltar ao menu");
-            do
-            {
-            } while (Console.ReadLine() == "");
+            Console.WriteLine("Pressione qualquer tecla para voltar ao menu.");
+            Console.ReadKey();
         }
 
         private static void InserirConta()
